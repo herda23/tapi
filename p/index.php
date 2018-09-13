@@ -8,7 +8,7 @@ if (isset($_SESSION['username'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Login | Aplikasi Barbershop</title>
+	<title>BARBERSHOP</title>
 	<style type="text/css">
 	@font-face{
 	font-family: titillium;
