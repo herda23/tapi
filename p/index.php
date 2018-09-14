@@ -64,7 +64,7 @@ if (isset($_SESSION['username'])) {
 		<div class="login">
 		
 		<div class="padding">
-			<h3>Login Aplikasi Barbershop</h3>
+			<h3>kimcil</h3>
 		<form id="loginapp">
 			<input type="text" name="username" placeholder="Username">
 			<input type="password" name="pass" placeholder="Password">
