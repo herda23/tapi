@@ -42,7 +42,7 @@
 			<div class="padding">
 			<div class="contenttop">
 				<div class="left">
-				<a href="?action=tambah_barang" class="btnblue"><i class="fa fa-plus"></i> Tambah Barang</a>
+				<a href="?action=tambah_barang" class="btnblue"><i class="fa fa-plus"></i> Tambah Bb</a>
 				<a href="cetak_barang.php" class="btnblue" target="_blank"><i class="fa fa-print"></i> Cetak</a>
 				</div>
 				<div class="right">
